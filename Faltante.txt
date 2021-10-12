@@ -1,0 +1,29 @@
+Los modulos de matematicas ya estan
+hace falta aun: 
+ 1. Las normales, a veces jala algunas y otras no 
+ 2. Los array no tienen modulos de matematicas
+ 3. Las matricez no tienen implemetacion.
+ 
+
+ 11/10/2021
+ - Vamos desde cero otra vez con el modulo de mate. 
+ ------------------ FIGURAS ---------------------------
+ 1. Sumas de Figures = Completa
+ 2. Restas, punto y Pi de Figuras = Completa
+ 3. Normales = Completa
+ 4. Matricez = Incompleta
+
+
+ ------------------ GL ---------------------------
+ 1. Sumas = Completa
+ 2. Restas, punto y Pi = Completa 
+ 3. Multiplicacion = Completa
+ 4. Normales = Pendiente.
+ 5. Matricez = Pendiente.
+ 6. Arrays = Pendiente.
+
+
+
+
+
+ 
