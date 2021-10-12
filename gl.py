@@ -1,3 +1,9 @@
+
+"""
+HACE FALTA LOS ARRAY DE NP. 
+
+"""
+
 import struct
 from collections import namedtuple
 from obj import _color
